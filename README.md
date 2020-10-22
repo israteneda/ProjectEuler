@@ -1,5 +1,5 @@
 # ProjectEuler
 
-Solutions to Project Euler problems, implemented in JavaScript
+Solutions to Project Euler problems, implemented in C++
 
 See the [resolve problems](problems)
